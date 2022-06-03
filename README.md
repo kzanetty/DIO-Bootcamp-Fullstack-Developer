@@ -1,2 +1,3 @@
 # DIO-Bootcamp-Fullstack-Developer
-Repository created for projects from  DIO Bootcamp Fullstack
+
+Repository created with the purpose of storing all projects created during Bootcamp Santander
